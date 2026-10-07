@@ -1,2 +1,2 @@
-# Deploying-Diabetes-Prediction-using-API
-A machine learning project that predicts whether a person is likely to have diabetes based on relevant health and medical features. The trained machine learning model is deployed as an API, allowing users or applications to send input data and receive real-time predictions.
+# Deploying-Diabetes-Prediction-using-Streamlit
+A machine learning project that predicts the likelihood of diabetes based on user-provided health parameters. The trained model is integrated with a Streamlit web application, providing a simple and interactive interface for users to enter their details and get prediction results.time predictions.
